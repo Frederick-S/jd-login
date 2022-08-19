@@ -2,7 +2,7 @@
   "name": "JD Login",
   "version": "1.0",
   "description": "A Chrome extension that disables qrcode login of jd.com.",
-  "manifest_version": 2,
+  "manifest_version": 3,
   "content_scripts": [
     {
       "js": [
